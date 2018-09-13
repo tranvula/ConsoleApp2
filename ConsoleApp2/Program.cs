@@ -8,6 +8,7 @@ namespace ConsoleApp2
         {
             string test = "";
             string test2 = "";
+            string test4 = "";
             Console.WriteLine("Hello World!");
         }
     }
