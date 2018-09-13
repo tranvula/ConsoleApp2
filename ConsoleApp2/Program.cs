@@ -8,6 +8,7 @@ namespace ConsoleApp2
         {
             string test = "";
             string test2 = "";
+<<<<<<< HEAD
             string test4 = "";
 =======
             string test3 = "";
